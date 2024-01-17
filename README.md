@@ -1,2 +1,2 @@
 # special-carnival
-A quick demo on how to setup a project for dd fullstack 
+Look out for that tree
